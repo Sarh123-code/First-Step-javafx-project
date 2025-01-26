@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f5453e2-9ac1-4de2-b386-ca0f2baa8c61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LayoutsTp2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boite/BoiteAMontrer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boite/BoiteFabric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boite/Chatgpt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8f5453e2-9ac1-4de2-b386-ca0f2baa8c61" name="Changes" comment="Premier dépôt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sarh123-code"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sarh123-code/POO_TP2.git",
+    "accountId": "45b76f05-4994-4a0d-b9d3-2f332eec92ab"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -74,12 +75,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737483816939</updated>
-      <workItem from="1737483817875" duration="5059000" />
+      <workItem from="1737483817875" duration="7034000" />
     </task>
+    <task id="LOCAL-00001" summary="Premier dépôt">
+      <option name="closed" value="true" />
+      <created>1737491369016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737491369016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Premier dépôt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Premier dépôt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
